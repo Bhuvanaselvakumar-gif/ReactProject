@@ -1,0 +1,47 @@
+.product{
+    width:150px;
+    height: 320px;
+    border:1px solid #eb6410;
+    background-color:rgb(15, 7, 2);
+  
+  }
+  .product img{
+      width: 100%;
+      height: 100%;
+  }
+  .product.img img{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+  }
+  .details{
+      padding: 10px;
+  
+  }
+  .details h3{
+      margin-bottom: 10px;
+      font-size: 18px;
+  
+  }
+  
+  .details button{
+      margin-top: 5px;
+      padding: 5px 10px;
+      background-color:#ea6709;
+      color: #020202;
+      border: none;
+      border-radius: 10px;
+  }s
+  .details button:hover{
+      background-color: rgb(243, 57, 28);
+  }
+  .details p{
+      font-size: 14px;
+      font-weight:500px ;
+      color: #ea6709;
+  }
+  .btnRemove{
+      background-color: rgb(229, 214, 48) !important;
+  
+  }
+  
